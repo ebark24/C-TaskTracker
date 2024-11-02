@@ -33,7 +33,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [C++ Tutorial](https://www.w3schools.com/cpp/default.asp)
-* [Intodcution to C++]([https://www.w3schools.com/cpp/default.asp](https://www.youtube.com/watch?v=M4wAmUh-yis))
+* [Intodcution to C++](https://www.youtube.com/watch?v=M4wAmUh-yis)
 
 ## Future Work
 
